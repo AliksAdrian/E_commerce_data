@@ -4,7 +4,7 @@ This dataset contains informations about an online business and the comments the
 
 My goal of this project is to highlight the distribution of the comments according to factors like, the moment it has been posted, the lenght of the comment, the language used, etc.
 
-The projet was a training for making text analysis, notably throughout wordclouds
+The projet was a training for making text analysis with Python
 
 I give a further insight on the negativity or the positivity of the comment throughout wordclouds.
 
